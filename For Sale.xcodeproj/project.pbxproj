@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		742DC7CD2243772F0067A352 /* iHAKTableRefresh.swift in Sources */ = {isa = PBXBuildFile; fileRef = 742DC7CC2243772F0067A352 /* iHAKTableRefresh.swift */; };
 		74902D812240BEAC00F24CBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74902D802240BEAC00F24CBE /* AppDelegate.swift */; };
 		74902D832240BEAC00F24CBE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74902D822240BEAC00F24CBE /* ViewController.swift */; };
 		74902D862240BEAC00F24CBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 74902D842240BEAC00F24CBE /* Main.storyboard */; };
@@ -52,6 +53,7 @@
 
 /* Begin PBXFileReference section */
 		40D09E11D3E096021A3AA89E /* Pods_For_Sale.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_For_Sale.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		742DC7CC2243772F0067A352 /* iHAKTableRefresh.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = iHAKTableRefresh.swift; sourceTree = "<group>"; };
 		74902D7D2240BEAC00F24CBE /* For Sale.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "For Sale.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		74902D802240BEAC00F24CBE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		74902D822240BEAC00F24CBE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -129,6 +131,7 @@
 				74902D962240C21F00F24CBE /* AlertService.swift */,
 				74902D982240C5EF00F24CBE /* UNService.swift */,
 				74902D9D2240D76300F24CBE /* FirDatabaseService.swift */,
+				742DC7CC2243772F0067A352 /* iHAKTableRefresh.swift */,
 				74902D9F2240F1FF00F24CBE /* FirMessageService.swift */,
 			);
 			path = "For Sale";
@@ -337,6 +340,7 @@
 				74902D932240C05900F24CBE /* Product.swift in Sources */,
 				74902D9E2240D76300F24CBE /* FirDatabaseService.swift in Sources */,
 				74902D972240C21F00F24CBE /* AlertService.swift in Sources */,
+				742DC7CD2243772F0067A352 /* iHAKTableRefresh.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
